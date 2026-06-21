@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hypasia"
+version = "0.1.0"
+authors = [
+  { name="Your Name", email="founder@hypasia.ai" },
+]
+description = "The open-source AI Data Mining and Fine-Tuning orchestrator."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "requests",
+    "pydantic",
+    "beautifulsoup4",
+]
+
+[project.optional-dependencies]
+crawling = ["trafilatura", "playwright"]
+
+[project.urls]
+"Homepage" = "https://hypasia.ai"
+"Bug Tracker" = "https://github.com/hypasia/hypasia/issues"
