@@ -6,12 +6,12 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
 </p>
 
-<h1 align="center">Hypasia AI Studio</h1>
+<h1 align="center">Vector OS</h1>
 <p align="center"><strong>The world's most complete LLM development platform — from raw data to deployed model, in one tool.</strong></p>
 
 ---
 
-## What is Hypasia?
+## What is Vector OS?
 
 Hypasia is an end-to-end, browser-based LLM development studio. It replaces a fragmented ecosystem of 6-8 separate tools (Scale AI, Labelbox, Weights & Biases, HuggingFace AutoTrain, Argilla, etc.) with a single, beautiful, integrated platform.
 
