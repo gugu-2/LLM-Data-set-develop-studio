@@ -18,7 +18,6 @@ Hypasia is an end-to-end, browser-based LLM development studio. It replaces a fr
 Whether you're a seasoned ML engineer or a non-technical founder who just wants a custom AI — Hypasia has you covered.
 
 ---
-
 ## ✨ Feature Overview (16 Modules)
 
 | Module | Route | Description |
