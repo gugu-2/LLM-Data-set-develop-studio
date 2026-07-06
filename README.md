@@ -8,7 +8,6 @@
 
 <h1 align="center">Vector OS</h1>
 <p align="center"><strong>The world's most complete LLM development platform — from raw data to deployed model, in one tool.</strong></p>
-
 ---
 
 ## What is Vector OS?
