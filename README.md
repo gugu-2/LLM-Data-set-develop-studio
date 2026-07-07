@@ -15,7 +15,6 @@
 Hypasia is an end-to-end, browser-based LLM development studio. It replaces a fragmented ecosystem of 6-8 separate tools (Scale AI, Labelbox, Weights & Biases, HuggingFace AutoTrain, Argilla, etc.) with a single, beautiful, integrated platform.
 
 Whether you're a seasoned ML engineer or a non-technical founder who just wants a custom AI — Hypasia has you covered.
-
 ---
 ## ✨ Feature Overview (16 Modules)
 
